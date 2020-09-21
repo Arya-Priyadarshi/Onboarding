@@ -9,7 +9,7 @@ Basic User registration functionality is implemented.
 Tax calculation based on annual income is implemented.
 
 
- 
+------------------------------------------------------------------------------------------------------
  
 How to Use the application:
 
